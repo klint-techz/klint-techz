@@ -4,7 +4,7 @@ body{
 }
 .container{
     background-color: white;
-    height: 410px;
+    height: 395px;
     width: 400px;
     border-radius: 10px;
     margin-left: 100px;
@@ -63,6 +63,7 @@ p{
     }
 
 }
+
 
 
 
