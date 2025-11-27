@@ -23,6 +23,9 @@ h1{
 h5{
     padding-left: 20px;
     margin-top: 10px;
+    font-size: 17px;
+    margin-bottom: 9px;
+    
 }
 .first{
     padding-left: 20px;
@@ -43,6 +46,7 @@ h5{
 }
 .sittingsContainer{
     display: flex;
+    margin-top: 9px;
 }
 #sitting{
     margin-left: 10px;
@@ -56,6 +60,7 @@ h5{
     }
 
 }
+
 
 
 
