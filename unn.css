@@ -52,5 +52,7 @@ h5{
 @media(max-width: 360){
     .container{
         width: 200px;
+        margin-left: 0px
     }
+
 }
