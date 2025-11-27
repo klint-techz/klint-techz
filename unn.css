@@ -4,7 +4,7 @@ body{
 }
 .container{
     background-color: white;
-    height: 380px;
+    height: 410px;
     width: 400px;
     border-radius: 10px;
     margin-left: 100px;
@@ -20,7 +20,7 @@ h1{
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
-h5{
+p{
     padding-left: 20px;
     margin-top: 10px;
     font-size: 17px;
@@ -63,6 +63,7 @@ h5{
     }
 
 }
+
 
 
 
