@@ -4,8 +4,8 @@ body{
 }
 .container{
     background-color: white;
-    height: 340px;
-    width: 380px;
+    height: 380px;
+    width: 350px;
     border-radius: 10px;
     margin-left: 200px;
     margin-top: 200px;
@@ -56,3 +56,4 @@ h5{
     }
 
 }
+
