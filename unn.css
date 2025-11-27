@@ -3,11 +3,11 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .container{
-    background-color: green;
+    background-color: white;
     height: 380px;
     width: 350px;
     border-radius: 10px;
-    margin-left: 200px;
+    margin-left: 0px;
     margin-top: 200px;
     
 }
@@ -56,5 +56,6 @@ h5{
     }
 
 }
+
 
 
